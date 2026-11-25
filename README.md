@@ -1,4 +1,4 @@
-# AEDS II - Trabalho Parte I
+# AEDS II - Trabalho
 
 Projeto desenvolvido para a disciplina de Algoritmos e Estruturas de Dados II.
 
